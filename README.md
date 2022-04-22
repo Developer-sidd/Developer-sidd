@@ -3,6 +3,8 @@
 # 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="focus-animation.gif" height="" width="300" alt="coding cat">
 
 </div>
+<br>
+I'm a self-taught passionate FrontEnd developer from India 🇮
 
 <div>
 
