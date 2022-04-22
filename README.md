@@ -27,10 +27,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="linkedin.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<a href="mailto:connect@developersidd.com"><img src="email.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/SIDDHARTH_R007"><img src="twitter.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
