@@ -1,6 +1,6 @@
  <div>
 
-# 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="focus-animation.gif" height="" width="300" alt="coding cat">
 
 </div>
 
