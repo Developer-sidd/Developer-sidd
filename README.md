@@ -16,6 +16,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮
 ![](https://komarev.com/ghpvc/?username=Developer-sidd&style=flat-square&color=ff69b4)
 
 </div>
+<hr/>
 
 # <h1><a href="https://mesidd.vercel.app/">Developer-Sidd</a> - Visit my portfolio</h1>
 
