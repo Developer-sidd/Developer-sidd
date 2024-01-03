@@ -1,6 +1,6 @@
  <div>
   <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=+Hola!+I'm+Sidd;>+Welcome+to+my+GitHub+Profile"/></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=+Hola!+I'm+Sidd;+Welcome+to+my+GitHub+Profile"/></div>
 # 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="focus-animation.gif" height="" width="300" alt="coding cat">
 
 </div>
@@ -16,7 +16,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮
 ![](https://komarev.com/ghpvc/?username=Developer-sidd&style=flat-square&color=ff69b4)
 
 </div>
-<hr/>
 
 # <h1><a href="https://mesidd.vercel.app/">Developer-Sidd</a> - Visit my portfolio</h1>
 
@@ -33,7 +32,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮
 <a href="https://www.linkedin.com/in/siddharth-r/"><img src="linkedin.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:connect@developersidd.com"><img src="email.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/SIDDHARTH_R007"><img src="twitter.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="/.github/icons/react.png" width="60"/>
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
