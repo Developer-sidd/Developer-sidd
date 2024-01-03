@@ -1,6 +1,6 @@
  <div>
   <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hola!+I'm+Sidd;>+Welcome+to+my+GitHub+Profile"/></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=+Hola!+I'm+Sidd;>+Welcome+to+my+GitHub+Profile"/></div>
 # 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="focus-animation.gif" height="" width="300" alt="coding cat">
 
 </div>
@@ -8,7 +8,7 @@
 I'm a self-taught passionate FrontEnd developer from India 🇮
 
 <div>
-
+<hr/>
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Developer-sidd?label=follow&logo=github&style=flat-square"> -->
 
 ![](https://img.shields.io/github/followers/Developer-sidd?label=follow&logo=github&style=flat-square)
@@ -17,7 +17,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮
 
 </div>
 
-# <h1><a href="https://Developersidd.com">Developer-Sidd</a> - Visit my portfolio</h1>
+# <h1><a href="https://mesidd.vercel.app/">Developer-Sidd</a> - Visit my portfolio</h1>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-sidd&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
