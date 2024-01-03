@@ -1,4 +1,6 @@
  <div>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hola!+I'm+Sidd;>+Welcome+to+my+GitHub+Profile"/>
 # 👋 Hi there, I am <a href="https://Developersidd.com">Sidd!</a> <img align='right' src="focus-animation.gif" height="" width="300" alt="coding cat">
 
 </div>
