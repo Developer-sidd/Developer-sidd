@@ -7,6 +7,9 @@
 <br>
 I'm a self-taught passionate FrontEnd developer from India
 
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg)![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+
 <div>
 <hr/>
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Developer-sidd?label=follow&logo=github&style=flat-square"> -->
