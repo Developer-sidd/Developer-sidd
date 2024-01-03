@@ -5,7 +5,7 @@
 
 </div>
 <br>
-I'm a self-taught passionate FrontEnd developer from India 🇮
+I'm a self-taught passionate FrontEnd developer from India
 
 <div>
 <hr/>
@@ -32,7 +32,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮
 <a href="https://www.linkedin.com/in/siddharth-r/"><img src="linkedin.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:connect@developersidd.com"><img src="email.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/SIDDHARTH_R007"><img src="twitter.gif" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/.github/icons/react.png" width="60"/>
+
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
